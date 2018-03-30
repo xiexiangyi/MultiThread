@@ -18,5 +18,7 @@ public class Service {
         Date time = Calendar.getInstance().getTime();
 
         System.out.println(time);
+
+        System.out.println("test");
     }
 }
