@@ -19,6 +19,5 @@ public class Service {
 
         System.out.println(time);
 
-        System.out.println("test");
     }
 }
