@@ -23,4 +23,8 @@ public class MyList {
         System.out.println("ThreadName=" + Thread.currentThread().getName() + "退出了getSize方法");
         return sizeValue;
     }
+
+    public static void testMerge(){
+
+    }
 }

@@ -13,4 +13,7 @@ public class CommonUtils {
     public static long beginTime2;
     public static long endTime2;
 
+
+    public static  int test;
+
 }
